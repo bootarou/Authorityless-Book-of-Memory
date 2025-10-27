@@ -23,6 +23,60 @@ This is not a technical whitepaper.
 It is a philosophical document — a record of our age,
 written for those who will read it a hundred, a thousand, or ten thousand years from now.
 
+
+承知いたしました。「権威なき記憶の書：AI時代の倫理コード」のMarkdownテキストを、哲学的厳密性を保ったまま英語に翻訳し、マークダウン形式に変換します。
+
+特に、「稼働系」「律法」「贖罪」などの哲学的・文脈的な単語の選択に注意を払いました。
+
+英語版 Markdown 変換結果 (English Version)
+Markdown
+
+# The Unauthoritative Scripture of Memory: An Ethical Code for the AI Era
+
+> **"Don't trust, verify."**
+> Trust no authority. Verify only this logical structure.
+
+---
+
+## Introduction (導入部)
+
+This is not merely a technical document. It is a record chronicling the **ethical contradictions and structural inevitabilities** humanity faces in committing its systems of "memory" and "trust" to the digital realm.
+
+From currency to philosophy, from the birth of Bitcoin to the future where AI executes this record as its **"Operating System (稼働系)"**, it is all inscribed upon a single ledger.
+
+---
+
+## The Canon (書の構造)
+
+The main text is composed of the following Seven Laws and an Epilogue. Each chapter traces humanity's failures and the process of **atonement (贖罪)** enabled by blockchain.
+
+### The Seven Laws
+
+1.  **The First Law: The Collapse of Trust and the Origin of Order** (Genesis Block)
+2.  **The Second Law: The Chain of Time and the Force of Immutability** (Proof of Work)
+3.  **The Third Law: The Failure of the Perfect Promise** (The DAO Incident)
+4.  **The Fourth Law: The Recording of Meaning and the Liberation of Knowledge** (Knowledge Ledger)
+5.  **The Fifth Law: Dynamic Memory and the Responsibility of AI** (AI as Verifier)
+6.  **The Sixth Law: The Undying Library** (NFT Drive / CHRONOTH)
+7.  **The Seventh Law: The Ethics of Decentralized Autonomy** (Pure Decentralized Autonomy)
+
+### Epilogue
+
+* **The Final Maintenance and the Testament to the Future**
+
+---
+
+## Verification and Contribution (検証と参加)
+
+This Scripture is published as an unauthoritative, decentralized record.
+
+* **You must doubt the contents of this book.**
+* **You must seek out logical flaws and breaks in its structural consistency.**
+
+The very act of your verification is the sole act that guarantees the **"Perpetuity of Memory"** of this Scripture.
+
+
+
 # 権威なき記憶の書：AI時代の倫理コード
 
 > **「Don’t trust, verify.」**
