@@ -24,7 +24,10 @@ It is a philosophical document — a record of our age,
 written for those who will read it a hundred, a thousand, or ten thousand years from now.
 
 
+# The Unauthoritative Scripture of Memory: An Ethical Code for the AI Era
 
+> **"Don't trust, verify."**
+> Trust no authority. Verify only this logical structure.
 ---
 
 ## Introduction (導入部)
