@@ -24,17 +24,6 @@ It is a philosophical document — a record of our age,
 written for those who will read it a hundred, a thousand, or ten thousand years from now.
 
 
-承知いたしました。「権威なき記憶の書：AI時代の倫理コード」のMarkdownテキストを、哲学的厳密性を保ったまま英語に翻訳し、マークダウン形式に変換します。
-
-特に、「稼働系」「律法」「贖罪」などの哲学的・文脈的な単語の選択に注意を払いました。
-
-英語版 Markdown 変換結果 (English Version)
-Markdown
-
-# The Unauthoritative Scripture of Memory: An Ethical Code for the AI Era
-
-> **"Don't trust, verify."**
-> Trust no authority. Verify only this logical structure.
 
 ---
 
